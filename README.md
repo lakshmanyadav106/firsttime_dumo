@@ -1,2 +1,2 @@
-# firsttime_dumo
-this is my first git repository
+# apne student
+auther-lakshman yadavthis is my first git repository
